@@ -1,0 +1,17 @@
+body {
+    background-color: #1b1b1b;
+    color: whitesmoke;
+  }
+  img {
+    width: 200px;
+    height: 200px;
+    border-radius: 125px;
+    float: left;
+    margin-right: 10px;
+    object-fit: cover;
+  }
+
+  .link {
+    color: rgb(255, 255, 255);
+    background-color: rgb(63, 63, 63);
+  }
