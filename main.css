@@ -8,7 +8,6 @@
   body {
     font-family: 'Clash Display', sans-serif;
     background-color: #101011;
-    font-style: normal;
     font-weight: 700;
     line-height: 4vw;
     align-items: center;
@@ -36,6 +35,7 @@
     width: 20vw;
     float: left;
   }
+
 
 
 
