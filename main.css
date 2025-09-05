@@ -9,6 +9,7 @@
     font-family: 'Clash Display', sans-serif;
     background-color: #101011;
     font-style: normal;
+    font-weight: bold;
     line-height: 4vw;
     align-items: center;
     color: #FFFFFF;
@@ -35,6 +36,7 @@
     width: 20vw;
     float: left;
   }
+
 
 
 
