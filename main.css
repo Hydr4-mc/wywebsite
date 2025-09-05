@@ -6,7 +6,7 @@
   }
   
   body {
-    font-family: 'AmericaGT';
+    font-family: 'Clash Grotesk', sans-serif;
     background-color: #101011;
     font-style: normal;
     line-height: 4vw;
@@ -35,4 +35,5 @@
     width: 20vw;
     float: left;
   }
+
 
