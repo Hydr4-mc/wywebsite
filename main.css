@@ -1,7 +1,4 @@
-@font-face {
-  font-family: 'AmericaGT';
-  src: url(font/GT-America/GT-America-Expanded-Black-Trial.otf) format('opentype')
-}
+
   * {
     box-sizing: border-box;
     margin: 0;
@@ -38,3 +35,4 @@
     width: 20vw;
     float: left;
   }
+
