@@ -12,6 +12,7 @@
     line-height: 4vw;
     align-items: center;
     color: #FFFFFF;
+    font-synthesis: none;
   }
 
   a {
@@ -35,6 +36,7 @@
     width: 20vw;
     float: left;
   }
+
 
 
 
