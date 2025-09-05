@@ -1,17 +1,40 @@
-body {
-    background-color: #1b1b1b;
-    color: whitesmoke;
+@font-face {
+  font-family: 'AmericaGT';
+  src: url(font/GT-America/GT-America-Expanded-Black-Trial.otf) format('opentype')
+}
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
   }
-  img {
-    width: 200px;
-    height: 200px;
-    border-radius: 125px;
-    float: left;
-    margin-right: 10px;
-    object-fit: cover;
+  
+  body {
+    font-family: 'AmericaGT';
+    background-color: #101011;
+    font-style: normal;
+    line-height: 4vw;
+    align-items: center;
+    color: #FFFFFF;
+  }
+
+  a {
+    text-decoration: none;
+  }
+  p{
+    width: 40vw;
+    height: 20vw;
+    margin-left: 45vw;
+    margin-top: 17vw;
+    font-size: clamp(16px, 3vw, 48px);
   }
 
   .link {
     color: rgb(255, 255, 255);
     background-color: rgb(63, 63, 63);
+  }
+
+  .icon {
+    margin-left: 20vw;
+    width: 20vw;
+    float: left;
   }
