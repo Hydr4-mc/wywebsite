@@ -21,7 +21,7 @@
   p{
     width: 40vw;
     height: 20vw;
-    margin-left: 45vw;
+    margin-left: 42.5vw;
     margin-top: 20vw;
     font-size: clamp(16px, 3vw, 48px);
   }
@@ -32,11 +32,12 @@
   }
 
   .icon {
-    margin-left: 20vw;
+    margin-left: 17.5vw;
     width: 20vw;
     float: left;
     margin-top: -2vw;
   }
+
 
 
 
