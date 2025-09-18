@@ -4,10 +4,12 @@
     margin: 0;
     padding: 0;
   }
-  
-  body {
-    font-family: 'Clash Display', sans-serif;
+  body{
     background-color: #101011;
+  }
+  
+  #herosection {
+    font-family: 'Clash Display', sans-serif;
     font-weight: 700;
     line-height: 4vw;
     align-items: center;
@@ -18,7 +20,7 @@
   a {
     text-decoration: none;
   }
-  p{
+  .about_me{
     width: 40vw;
     height: 20vw;
     margin-left: 42.5vw;
