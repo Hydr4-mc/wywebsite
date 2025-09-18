@@ -10,9 +10,6 @@
   
   #herosection {
     margin-top: 35vh;
-    font-family: 'Clash Display', sans-serif;
-    font-weight: 700;
-    line-height: 4vw;
     align-items: center;
     color: #FFFFFF;
     font-synthesis: none;
@@ -27,6 +24,9 @@
     margin-left: 42.5vw;
     margin-top: 20vw;
     font-size: clamp(16px, 3vw, 48px);
+    font-family: 'Clash Display', sans-serif;
+    font-weight: 700;
+    line-height: 4vw;
   }
 
   .link {
@@ -39,6 +39,10 @@
     width: 20vw;
     float: left;
     margin-top: -2vw;
+  }
+
+  #vers{
+    margin-left: 42.5vw;
   }
 
 
